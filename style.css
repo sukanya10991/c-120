@@ -20,11 +20,21 @@ img {
     border-color: white;
     border-radius: 20px;
     align-items: center;
-    width: 600px !important;
+    width: 550px !important;
     margin-left: 50px !important;
     margin-bottom: 50px !important;
 }
 
 h4 {
     font-size: 19px !important;
+}
+
+hr {
+    width: 70% !important;
+    color: white !important;
+}
+
+#ay {
+    margin-left: 100px !important;
+    margin-right: 100px !important;
 }
